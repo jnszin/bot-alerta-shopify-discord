@@ -53,9 +53,3 @@ Ofereço um serviço de instalação e hospedagem. Você não se preocupa com c�
 
 ### Ready to Automate? (Pronto para Automatizar?)
 
-Estou disponível para projetos nas principais plataformas de freelance.
-
-* **[🔗 Meu Perfil no Workana/99Freelas (COLOQUE SEU LINK AQUI)]**
-* **[🔗 Meu "Gig" no Fiverr (COLOQUE SEU LINK AQUI)]**
-
-Me chame por lá, me explique sobre sua loja, e vamos colocar seu vendedor-robô para trabalhar!
