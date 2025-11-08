@@ -2,7 +2,8 @@
 
 **Sua loja Shopify conectada DIRETAMENTE com sua comunidade no Discord. Automatize seus anúncios de produtos, preços e estoque, 24 horas por dia.**
 
-[IMAGEM/GIF DO SEU BOT ANUNCIANDO UM ALERTA DE ESTOQUE BAIXO]
+![estoque baixo atuailizado automatico](https://github.com/user-attachments/assets/c88221da-f31a-4438-a8ae-79d3f481edab)
+
 
 ---
 
@@ -20,7 +21,8 @@ Parar o que está fazendo para copiar e colar links no Discord é lento, chato e
 
 Eu instalo e configuro um bot pessoal e 100% automático para sua marca. Ele monitora sua loja 24/7 e age como um vendedor incansável para sua comunidade.
 
-[GIF MOSTRANDO O ALERTA DE NOVO PRODUTO COM "PREÇOS A PARTIR DE..."]
+![estoque atuailizado automatico](https://github.com/user-attachments/assets/5fa3086a-eed2-4f30-a7f9-4bd1a6f7cd8f)
+
 
 #### ✅ Monitoramento Inteligente de Preço
 O bot não é burro. Se você tem um produto com P, M e G, ele sabe a diferença. Se você mudar o preço **apenas** da variante "M", o bot anuncia a promoção **especificamente** daquela variante.
@@ -42,8 +44,8 @@ Ofereço um serviço de instalação e hospedagem. Você não se preocupa com c�
 
 | Pacote | Novo Produto | Mudança de Preço | Monitor de Estoque | Relatório de Vendas |
 | :--- | :---: | :---: | :---: | :---: |
-| **BÁSICO (R$ XX/mês)** | ✅ | ✅ | ❌ | ❌ |
-| **PRO (R$ XX/mês)** | ✅ | ✅ | ✅ | ✅ |
+| **BÁSICO (R$ 59,90/mês)** | ✅ | ✅ | ❌ | ❌ |
+| **PRO (R$ 99,90/mês)** | ✅ | ✅ | ✅ | ✅ |
 
 *Hospedagem e manutenção do bot 24/7 incluídas no valor mensal.*
 
